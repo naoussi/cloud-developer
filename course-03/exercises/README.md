@@ -27,7 +27,7 @@ Clone repo:
     - Run`npm run dev` to run server locally
 
 
-- I created the dev branch which will hold the final deployment of my project in production.
+- I created the `prod` branch which will hold the final deployment to production.
 
 
 ## Travis Build Screenshot
@@ -52,7 +52,7 @@ To create, deploy and run the docker images, I simply used the `docker-compose u
 ### Run App on Docker
 - Open on the browers the link `localhost:8100`
 
-Below is an image of my deployment of my images to  [docker hub](https://hub.docker.com/u/naoussi) 
+[docker hub](https://hub.docker.com/u/naoussi) 
 
 ![docker hub](img/dockerhub.png)
 
@@ -107,3 +107,8 @@ Screenshot of application on Amazon Cloudwatch:
 
 
 ![cloudwatch](img/cloudwatch1.png)
+
+
+## References
+- [Kubeone](https://github.com/kubermatic/kubeone)
+- [Kubernetes clusters on AWS using KubeOne](https://www.loodse.com/blog/2019-07-25-running-ha-kubernetes/)
