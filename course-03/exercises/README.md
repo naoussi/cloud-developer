@@ -1,7 +1,9 @@
 # Refactor Udagram app into Microservices and Deploy
 
 
-
+## Second Submission note
+Screenshot of the `kubectl get pod`
+![kubectl](img/getpods.png)
 
 ## How to Run Project
 
